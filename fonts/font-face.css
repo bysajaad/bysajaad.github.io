@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'IRANYekan';
+  font-style: normal;
+  font-weight: 100;
+  src: 
+    /* IE6-8 */ url('woff2/IRANYekanXFaNum-Thin.woff2') format('woff2') url('woff/IRANYekanXFaNum-Thin.woff')
+      format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Thin.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  font-weight: 300;
+  font-style: normal;
+  src: url('woff2/IRANYekanXFaNum-Light.woff2') format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/ url('woff/IRANYekanXFaNum-Light.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  font-weight: 400;
+  font-style: normal;
+  src: 
+    /* IE6-8 */ url('woff2/IRANYekanXFaNum-Regular.woff2') format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/ url('woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  font-style: normal;
+  font-weight: 500;
+  src:  /* IE6-8 */ url('woff2/IRANYekanXFaNum-Medium.woff2') format('woff2'),
+    /* IE6-8 */ url('woff/IRANYekanXFaNum-Medium.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  src: 
+    /* IE6-8 */ url('woff2/IRANYekanXFaNum-Regular.woff2') format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/ url('woff/IRANYekanXFaNum-Regular.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Regular.ttf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  font-weight: 700;
+  font-style: normal;
+  src: 
+    /* IE6-8 */ url('woff2/IRANYekanXFaNum-Bold.woff2') format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/ url('woff/IRANYekanXFaNum-Bold.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'IRANYekan';
+  font-weight: 800;
+  font-style: normal;
+  src: url('woff2/IRANYekanXFaNum-ExtraBold.woff2') format('woff2'),
+    /* IE6-8 */ url('woff/IRANYekanXFaNum-ExtraBold.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  font-style: normal;
+  font-weight: 900;
+  src: url('woff2/IRANYekanXFaNum-Black.woff2') format('woff2'),
+    /* IE6-8 */ url('woff/IRANYekanXFaNum-Black.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IRANYekan';
+  font-style: normal;
+  font-weight: 950;
+  src: url('woff2/IRANYekanXFaNum-ExtraBlack.woff2') format('woff2'),
+    /* IE6-8 */ url('woff/IRANYekanXFaNum-ExtraBlack.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/IRANYekanXFaNum-ExtraBlack.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'IRANYekanMsn';
+  src: 
+    /* IE6-8 */ url('woff2/iranyekanmsn.woff2') format('woff2'),
+    /* FF39+,Chrome36+, Opera24+*/ url('woff/iranyekanmsn.woff') format('woff'),
+    /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('ttf/iranyekanmsn.ttf') format('truetype');
+  font-style: normal;
+}
